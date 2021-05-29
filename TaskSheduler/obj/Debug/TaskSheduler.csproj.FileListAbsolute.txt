@@ -1,0 +1,6 @@
+D:\ІС-02\1 курс\Курсова робота 2\ConsoleUserInterface\TaskSheduler\bin\Debug\TaskSheduler.dll
+D:\ІС-02\1 курс\Курсова робота 2\ConsoleUserInterface\TaskSheduler\bin\Debug\TaskSheduler.pdb
+D:\ІС-02\1 курс\Курсова робота 2\ConsoleUserInterface\TaskSheduler\obj\Debug\TaskSheduler.csproj.CoreCompileInputs.cache
+D:\ІС-02\1 курс\Курсова робота 2\ConsoleUserInterface\TaskSheduler\obj\Debug\TaskSheduler.dll
+D:\ІС-02\1 курс\Курсова робота 2\ConsoleUserInterface\TaskSheduler\obj\Debug\TaskSheduler.pdb
+D:\ІС-02\1 курс\Курсова робота 2\ConsoleUserInterface\TaskSheduler\obj\Debug\TaskSheduler.csprojAssemblyReference.cache
